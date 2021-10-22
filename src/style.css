@@ -88,8 +88,7 @@ p {
   text-decoration: underline;
 }
 .navigationbar{
-  padding-left: 80px;!important;
-
+  padding-left: 80px!important;
 }
 
 .primary-link{
@@ -103,4 +102,10 @@ p {
 }
 .hello{
     margin-top: 100px;
+}
+@media screen and (max-width: 576px){
+    .responsive_picture{
+        display: none;
+    }
+
 }
