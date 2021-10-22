@@ -16,7 +16,7 @@ h3 {
 }
 
 h1 {
-  font-size: 96px;
+  font-size: 96px !important;
 }
 
 h2 {
@@ -113,9 +113,11 @@ p {
   .email-link {
     font-size: 15px;
   }
-
+.background{
+    margin-top: 10px;
+}
   h1 {
-    font-size: 50px;
+    font-size: 50px !important;
   }
 
   img {
