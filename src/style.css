@@ -16,7 +16,7 @@ h3 {
 }
 
 h1 {
-  font-size: 96px !important;
+  font-size: 76px !important;
 }
 
 h2 {
@@ -116,8 +116,11 @@ p {
 .background{
     margin-top: 10px;
 }
+.navigation_name{
+  font-size: 15px!important;
+}
   h1 {
-    font-size: 50px !important;
+    font-size: 40px !important;
   }
 
   img {
